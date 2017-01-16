@@ -7,6 +7,7 @@
 1. [加入 Jumbotron](./05.html)
 1. [加入三欄資訊](./06.html)
 1. [加入 Glyphicon](./07.html)
+1. [加入 Image](./08.html)
 
 ### 延伸閱讀
 
