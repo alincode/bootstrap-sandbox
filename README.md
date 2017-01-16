@@ -4,6 +4,9 @@
 1. [加入下拉式元件(Dropdown)，並把選單靠右對齊。](./02.html)
 1. [加入漢堡包(Navbar collapse)](./03.html)
 1. [加入 Footer](./04.html)
+1. [加入 Jumbotron](./05.html)
+1. [加入三欄資訊](./06.html)
+1. [加入 Glyphicon](./07.html)
 
 ### 延伸閱讀
 
